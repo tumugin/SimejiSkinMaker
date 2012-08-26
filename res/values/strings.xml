@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Simeji Skin Maker</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Simeji Skin Maker</string>
+    <string name="MakeSkin">スキンを作成する</string>
+    <string name="Close">閉じる</string>
+
+</resources>
